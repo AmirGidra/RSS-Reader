@@ -1,0 +1,20 @@
+body{
+	background-color: #494A4A;
+	color:#fff;
+	font-size: 20px;
+	padding: 20px;
+}
+#naslov{
+	float: left;
+}
+.naslov1{
+	color:black;
+}
+.container{
+	max-width: 600px;
+	margin: auto;
+	background-color: #8AAAB5;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+}
